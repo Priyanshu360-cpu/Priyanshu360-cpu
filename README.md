@@ -24,7 +24,15 @@
 
 •📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/priyanshu-tiwari-3a04171aa)
 
-•💬 Ask me about **Golang, Javascript, Typescript, Python, Css, Reactjs**
+•💬 Ask me about 
+```
+ •Golang
+ •Javascript
+ •Typescript
+ •Python
+ •Css
+ •Reactjs
+```
 
 •📫 How to reach me **tpriyanshu775@gmail.com**
 
