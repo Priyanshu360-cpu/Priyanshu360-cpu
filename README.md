@@ -30,6 +30,7 @@
  •Javascript
  •Typescript
  •Python
+ •C 
  •Css
  •Reactjs
 ```
