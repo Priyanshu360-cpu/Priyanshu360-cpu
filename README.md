@@ -7,21 +7,30 @@
 
 <p align="left"> <a href="https://twitter.com/techtrends_007" target="blank"><img src="https://img.shields.io/twitter/follow/techtrends_007?logo=twitter&style=for-the-badge" alt="techtrends_007" /></a> </p>
 
--🔭 I’m currently working on [Techie](https://techie.site.xyz)
+•🔭 I’m currently working on:-
+```
+ •Techie - A discord bot
+ •Techart- An E Commerce Website
+ •GoCord - Go Bindings
+```
 
--🌱 I’m currently learning **Rust, Assembly**
+•🌱 I’m currently learning:-
+``` 
+ •Rust
+ •Assembly
+```
 
--👨‍💻 All of my projects are available at [https://github.com/Priyanshu360-cpu/](https://github.com/Priyanshu360-cpu/)
+•👨‍💻 All of my projects are available at [GitHub](https://github.com/Priyanshu360-cpu/)
 
--📝 I regularly write articles on [https://www.linkedin.com/in/priyanshu-tiwari-3a04171aa](https://www.linkedin.com/in/priyanshu-tiwari-3a04171aa)
+•📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/priyanshu-tiwari-3a04171aa)
 
--💬 Ask me about **Golang, Javascript, Typescript, Python, Css, Reactjs**
+•💬 Ask me about **Golang, Javascript, Typescript, Python, Css, Reactjs**
 
--📫 How to reach me **tpriyanshu775@gmail.com**
+•📫 How to reach me **tpriyanshu775@gmail.com**
 
--📄 Know about my experiences [https://www.linkedin.com/in/priyanshu-tiwari-3a04171aa](https://www.linkedin.com/in/priyanshu-tiwari-3a04171aa)
+•📄 Know about my experiences [Experience](https://www.linkedin.com/in/priyanshu-tiwari-3a04171aa)
 
--⚡ Fun fact **I Like to play Games**
+•⚡ Fun fact **I Like to play Games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
