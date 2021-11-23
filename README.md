@@ -39,7 +39,7 @@
 
 •📄 Know about my experiences [Experience](https://www.linkedin.com/in/priyanshu-tiwari-3a04171aa)
 
-•⚡ Fun fact **I Like to play Games**
+•⚡ Fun fact **I Like GoLang more than Nodejs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
