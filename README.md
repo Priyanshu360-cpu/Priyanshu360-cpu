@@ -8,10 +8,10 @@
 <p align="left"> <a href="https://twitter.com/techtrends_007" target="blank"><img src="https://img.shields.io/twitter/follow/techtrends_007?logo=twitter&style=for-the-badge" alt="techtrends_007" /></a> </p>
 
 •🔭 I’m currently working on:-
-```
- •Techie - A discord bot
+``` 
  •Techart- An E Commerce Website
- •GoCord - Go Bindings
+ •GoCord - Go Bindings  
+ •Cordy - Nodejs Wrapper
 ```
 
 •🌱 I’m currently learning:-
