@@ -9,9 +9,9 @@
 
 •🔭 I’m currently working on:-
 ``` 
- •Techart- An E Commerce Website
+ •Droid Csharp Application
  •GoCord - Go Bindings  
- •Cordy - Nodejs Wrapper
+ •.Net Web Application 
 ```
 
 •🌱 I’m currently learning:-
