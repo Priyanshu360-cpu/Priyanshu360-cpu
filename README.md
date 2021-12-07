@@ -11,7 +11,8 @@
 ``` 
  •Droid Csharp Application
  •GoCord - Go Bindings  
- •.Net Web Application  with Csharp
+ •.Net Web Application with Csharp
+ •Windows Application with Cpp
 ```
 
 •🌱 I’m currently learning:-
