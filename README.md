@@ -45,7 +45,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/techtrends_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="techtrends_007" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/priyanshu tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu tiwari" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/priyanshu-tiwari-3a04171aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu tiwari" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/priyanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="priyanshu" height="30" width="40" /></a>
 <a href="https://instagram.com/priyanshu.__0007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyanshu._007" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/tech trends" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tech trends" height="30" width="40" /></a>
