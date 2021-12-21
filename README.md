@@ -1,12 +1,12 @@
 <h1 align="center">Hi <img src ="https://cdn.discordapp.com/emojis/716302818008367104.gif?size=32"></img>, I'm Priyanshu </h1>
 <h3 align="center">An active learner developing things</h3>
-
+<iframe src="https://discordapp.com/widget?id=701041158876299373&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu360-cpu&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu360-cpu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshu360-cpu" alt="priyanshu360-cpu" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/techtrends_007" target="blank"><img src="https://img.shields.io/twitter/follow/techtrends_007?logo=twitter&style=for-the-badge" alt="techtrends_007" /></a> </p>
-<iframe src="https://discordapp.com/widget?id=701041158876299373&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 •🔭 I’m currently working on:-
 ``` 
  •Droid Csharp Application
