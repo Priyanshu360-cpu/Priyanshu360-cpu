@@ -31,6 +31,8 @@
  •Typescript
  •Python
  •C 
+ •Cpp
+ •C sharp 
  •Css
  •Reactjs
 ```
