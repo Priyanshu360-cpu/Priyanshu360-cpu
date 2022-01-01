@@ -12,6 +12,7 @@
  •GoCord - Go Bindings  
  •.Net Web Application with Csharp
  •Windows Application with Cpp
+ •Desktop Application with Electron
 ```
 
 •🌱 I’m currently learning:-
