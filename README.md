@@ -63,4 +63,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu360-cpu&show_icons=true&locale=en" alt="priyanshu360-cpu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu360-cpu&" alt="priyanshu360-cpu" /></p>
-<img src = "https://codepen.io/Priyanshu360-cpu"/>
+
