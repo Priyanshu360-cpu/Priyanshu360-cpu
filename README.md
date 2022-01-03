@@ -23,7 +23,7 @@
 
 •👨‍💻 All of my projects are available at [GitHub](https://github.com/Priyanshu360-cpu/)
 
-•📝 I regularly write articles on [personal website](https://www.google.com)
+•📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/priyanshu-tiwari-3a04171aa/)
 
 •💬 Ask me about 
 ```
@@ -40,7 +40,7 @@
 
 •📫 How to reach me **tpriyanshu775@gmail.com**
 
-•📄 Know about my experiences [personal website](https://www.google.com)
+•📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/priyanshu-tiwari-3a04171aa/)
 
 •⚡ Fun fact **I Like GoLang more than Nodejs**
 
