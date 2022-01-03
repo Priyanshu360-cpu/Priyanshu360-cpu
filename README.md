@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu360-cpu&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu360-cpu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshu360-cpu" alt="priyanshu360-cpu" /></a> </p>
-<p align="left"> <a href="tpriyanshu775@gmail.com" target="blank"><img src="https://img.shields.io/badge/gmail-tpriyanshu775%40gmail.com-red" alt="techtrends_007" /></a> </p>
+<p align="left"> <a href="https://tpriyanshu775@gmail.com" target="blank"><img src="https://img.shields.io/badge/gmail-tpriyanshu775%40gmail.com-red" alt="techtrends_007" /></a> </p>
 <img src = "https://activity-graph.herokuapp.com/graph?username=Priyanshu360-cpu&theme=dracula"/>
 
 •🔭 I’m currently working on:-
