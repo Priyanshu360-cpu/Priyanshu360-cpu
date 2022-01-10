@@ -13,6 +13,7 @@
  •.Net Web Application with Csharp
  •Windows Application with Cpp.
  •Desktop Application with Electron
+ 
 ```
 
 •🌱 I’m currently learning:-
@@ -33,6 +34,7 @@
  •Python
  •C 
  •Cpp
+ •Electron-js
  •C sharp 
  •Css
  •Reactjs
