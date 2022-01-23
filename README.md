@@ -11,7 +11,7 @@
  •Droid Csharp Application
  •GoCord - Go Bindings  
  •.Net Web Application with Csharp
- •Windows Application with Cpp.
+ •Cross Platfrom Application with React-Native
  •Desktop Application with Electron
  
 ```
