@@ -12,7 +12,7 @@
  •GoCord - Go Bindings  
  •.Net Web Application with Csharp
  •Cross Platfrom Application with React-Native
- •Desktop Application with Electron
+ •Droid Project with Java
  
 ```
 
