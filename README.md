@@ -8,9 +8,7 @@
 
 •🔭 I’m currently working on:-
 ``` 
- •Droid Csharp Application
- •GoCord - Go Bindings  
- •.Net Web Application with Csharp
+ •Os with Rust
  •Cross Platfrom Application with React-Native
  •Droid Project with Java
  
