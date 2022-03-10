@@ -7,7 +7,7 @@
 <img src = "https://activity-graph.herokuapp.com/graph?username=Priyanshu360-cpu&theme=dracula"/>
 
 •🔭 I’m currently working on:-
-``` 
+```
  •Os with Rust
  •Cross Platfrom Application with React-Native
  •Droid Project with Java
