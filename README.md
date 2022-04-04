@@ -18,6 +18,7 @@
 ``` 
  •Rust
  •Assembly
+ 
 ```
 
 •👨‍💻 All of my projects are available at [GitHub](https://github.com/Priyanshu360-cpu/)
