@@ -8,9 +8,9 @@
 
 •🔭 I’m currently working on:-
 ```
- •Os with Rust
  •Cross Platfrom Application with React-Native
- •Droid Project with Java
+ •Npm Package for ReactJS
+ •GraphQl Technology
  
 ```
 
