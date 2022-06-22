@@ -10,7 +10,7 @@
 ```
  •Cross Platfrom Application with React-Native
  •Npm Package for ReactJS
- •GraphQl Technology
+ •Browser Games
  
 ```
 
@@ -18,7 +18,7 @@
 ``` 
  •Rust
  •Assembly
- 
+ •GraphQl Technology
 ```
 
 •👨‍💻 All of my projects are available at [GitHub](https://github.com/Priyanshu360-cpu/)
