@@ -10,7 +10,7 @@
 ```
  •Cross Platfrom Application with React-Native
  •Npm Package for ReactJS
- •Browser Games
+ •JavaScript and Rust Games 
  
 ```
 
