@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src ="https://cdn.discordapp.com/emojis/716302818008367104.gif?size=32"></img>, I'm Priyanshu. </h1>
+<h1 align="center">Hi <img src ="https://cdn.discordapp.com/emojis/716302818008367104.gif?size=32"></img>, I'm Priyanshu </h1>
 <h3 align="center">An active learner developing things</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu360-cpu&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu360-cpu" /> </p>
 
